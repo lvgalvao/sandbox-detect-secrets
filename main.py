@@ -1,9 +1,1 @@
-AWS_ACCESS_KEY_ID = 'HELLO WORLD DETECT SECRETS'
-
-print(AWS_ACCESS_KEY_ID)
-
-print(AWS_ACCESS_KEY_ID)
-
-print(AWS_ACCESS_KEY_ID)
-
-print(AWS_ACCESS_KEY_ID)
+print("Agora sem as secrets")
