@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.1.0 # Utilize a versão que preferir
+    hooks:
+      - id: detect-secrets
+        args: ["--exclude-secrets", "audit", "main.py"]
